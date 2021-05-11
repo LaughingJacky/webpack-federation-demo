@@ -1940,9 +1940,9 @@ locate-path@^5.0.0:
     p-locate "^4.1.0"
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.4:
-  version "4.17.17"
-  resolved "https://registry.npm.taobao.org/lodash/download/lodash-4.17.17.tgz?cache=0&sync_timestamp=1594237527945&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Flodash%2Fdownload%2Flodash-4.17.17.tgz#d9018b3acc57a95c9dcf4a45c6b63b877b6c2d45"
-  integrity sha1-2QGLOsxXqVydz0pFxrY7h3tsLUU=
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.1.0, loose-envify@^1.4.0:
   version "1.4.0"
